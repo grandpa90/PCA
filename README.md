@@ -2,6 +2,8 @@
 
 This project is focused on learning machine learning techniques and implementing them using Python.
 
+![Machine Learning](Figure_1.png)
+
 
 ## Overview
 
